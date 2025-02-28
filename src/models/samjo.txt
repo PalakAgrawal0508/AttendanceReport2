@@ -1,0 +1,3 @@
+This is the models folder where we define the basic structure of the different entities depending upon our needs
+user.model.js : 
+Here the user model is the structure of the user who logs in or sign's up . It is same as STRUCTURE  in the MongoDB 
